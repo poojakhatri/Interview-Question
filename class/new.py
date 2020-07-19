@@ -7,7 +7,7 @@
 def add_book(title):
 	recommendations=[]
 	recommendations.append(title) 
-	print(recommendations)
+	
 
 title = "Rich Dad Poor Dad'"
 add_book(title)
